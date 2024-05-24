@@ -1,0 +1,24 @@
+-------------
+Player 1 (AI(MCTS,Positional)) won 34 games(s).
+Player 2 (AI(MCTSWithPruning,Positional)) won 16 games(s).
+-------------
+The Dark player won 35 game(s).
+The Light player won 15 game(s).
+-------------
+The players drew 0 time(s).
+-------------
+Player 1 Scores = [53,50,43,35,43,5,52,59,41,25,64,0,47,4,50,43,50,11,49,52,34,15,47,42,10,23,43,13,59,36,64,36,13,0,55,49,47,45,15,19,48,39,47,9,43,47,54,31,63,23]
+Player 1 Mean = 36.9
+Player 1 Variance = 330.54081632653055
+Player 1 Standard Deviation = 18.180781510334768
+-------------
+Player 2 Scores = [11,14,21,29,21,59,12,5,23,39,0,64,17,60,14,21,14,53,15,12,30,49,17,22,54,41,21,51,5,28,0,28,51,64,9,15,17,19,49,45,16,25,17,55,21,17,10,33,1,41]
+Player 2 Mean = 27.1
+Player 2 Variance = 330.54081632653055
+Player 2 Standard Deviation = 18.180781510334768
+-------------
+Difference between players' average scores: 9.799999999999997
+-------------
+Total run time: 52 minutes and 20 seconds.
+Average game run time: 1 minutes and 2 seconds.
+-------------

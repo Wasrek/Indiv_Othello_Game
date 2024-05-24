@@ -1,0 +1,24 @@
+-------------
+Player 1 (AI(IterativeMinimax,Positional)) won 37 games(s).
+Player 2 (AI(IterativeMinimaxWithPruning,Positional)) won 12 games(s).
+-------------
+The Dark player won 23 game(s).
+The Light player won 26 game(s).
+-------------
+The players drew 1 time(s).
+-------------
+Player 1 Scores = [41,49,64,32,60,45,20,27,26,50,51,29,52,49,17,58,44,57,57,61,46,39,58,22,39,41,53,33,31,59,57,39,37,47,18,57,34,46,34,38,44,28,19,31,60,60,42,44,15,40]
+Player 1 Mean = 42.0
+Player 1 Variance = 181.10204081632654
+Player 1 Standard Deviation = 13.457415829806498
+-------------
+Player 2 Scores = [23,15,0,32,4,19,44,37,38,14,13,35,12,15,47,6,20,7,7,3,18,25,6,42,25,23,11,31,33,5,7,25,27,17,46,7,30,18,30,26,20,36,45,33,4,4,22,20,49,24]
+Player 2 Mean = 22.0
+Player 2 Variance = 181.10204081632654
+Player 2 Standard Deviation = 13.457415829806498
+-------------
+Difference between players' average scores: 20.0
+-------------
+Total run time: 46 minutes and 50 seconds.
+Average game run time: 56 seconds.
+-------------
