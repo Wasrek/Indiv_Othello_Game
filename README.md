@@ -5,10 +5,10 @@ Introduction
 This project is based on the source code from "Creating an AI to play Othello Final Report" by Owen Shevlin.
 We have used the original source code and extended it by adding our versions of AI decision-makers. Our AI deciders include:
 
-FixedMinimaxWithPruning
-FixedIterativeWithPruning
-MCTSWithIterativeMinimax
-MCTSWithPruning
+1. FixedMinimaxWithPruning
+2. FixedIterativeWithPruning
+3. MCTSWithIterativeMinimax
+4. MCTSWithPruning
 
 Credits
 
